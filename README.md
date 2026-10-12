@@ -100,8 +100,8 @@ Fai_project/
 
 **1. Clone the repository and install the libraries**
 ```bash
-git clone <this-repo-url>
-cd <repo-folder>
+git clone https://github.com/Karthik26072003/crop-recommendation-random-forest.git
+cd crop-recommendation-random-forest
 pip install -r requirements.txt
 ```
 
@@ -134,6 +134,6 @@ Python · pandas · NumPy · scikit-learn · Matplotlib · Seaborn · Streamlit 
 
 ## 👤 Author
 
-**Maddula Karthik**
-Roll No: CH.SC.U4CSE23121
+**Maddula Karthik**<br>
+Roll No: CH.SC.U4CSE23121<br>
 Amrita Vishwa Vidyapeetham, Chennai
