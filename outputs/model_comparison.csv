@@ -1,0 +1,6 @@
+Model,Accuracy,Precision,Recall,F1
+Naive Bayes,0.9955,0.9959,0.9955,0.9954
+Random Forest,0.9955,0.9957,0.9955,0.9955
+KNN,0.9795,0.9804,0.9795,0.9793
+Decision Tree,0.9795,0.9806,0.9795,0.9794
+Logistic Regression,0.9727,0.974,0.9727,0.9725

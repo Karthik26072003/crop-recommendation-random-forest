@@ -1,0 +1,27 @@
+Crop Recommendation - Random Forest Results
+=============================================
+Dataset: 2200 samples, 7 features, 22 crops
+Train/Test: 1760/440
+
+Test Accuracy : 0.9955
+Precision     : 0.9957
+Recall        : 0.9955
+F1-score      : 0.9955
+5-fold CV     : 0.9955 +/- 0.0032
+
+Feature importance:
+rainfall       0.2302
+humidity       0.2242
+K              0.1754
+P              0.1508
+N              0.0964
+temperature    0.0724
+ph             0.0506
+
+Model comparison:
+              Model  Accuracy  Precision  Recall     F1
+        Naive Bayes    0.9955     0.9959  0.9955 0.9954
+      Random Forest    0.9955     0.9957  0.9955 0.9955
+                KNN    0.9795     0.9804  0.9795 0.9793
+      Decision Tree    0.9795     0.9806  0.9795 0.9794
+Logistic Regression    0.9727     0.9740  0.9727 0.9725
